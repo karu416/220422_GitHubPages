@@ -1,10 +1,10 @@
 ---
-title: "ここにページのタイトル"
+title: "osusumenomanga"
 author: default
 permalink: /
 ---
 
-# 見出し
+#kojintekinaomosiroimangarankingu
 
 ここに内容を記述する！
 
